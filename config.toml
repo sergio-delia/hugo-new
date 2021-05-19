@@ -1,0 +1,5 @@
+baseURL = "https://aproweb.it"
+languageCode = "en-us"
+title = "Test Sergio"
+theme = "dimension"
+
