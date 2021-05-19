@@ -1,4 +1,4 @@
-baseURL = "https://aproweb.it"
+baseURL = ""
 languageCode = "en-us"
 title = "Test Sergio"
 theme = "dimension"
